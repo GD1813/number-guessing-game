@@ -19,4 +19,5 @@ The player selects a difficulty level and tries to guess a randomly generated nu
 
 ## How to Run
 1. Clone the repository or download the file
-2. Run the program using:
+2. Run the program using: python main.py or simply running the main.py
+
